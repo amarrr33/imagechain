@@ -1,0 +1,5 @@
+
+{
+  "name": "ImageChain: Secure Image Version Control",
+  "description": "An offline web application for secure image version control using cryptography and invisible watermarking. Users can edit images, commit versions with signed edit histories, and verify the authenticity and integrity of any image in the chain."
+}
